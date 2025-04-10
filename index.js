@@ -33,7 +33,7 @@ console.log(1/0)
 console.log('abc'*9)
 var hex = oxff
 console.log(hex)
-var oct = 0758
+var oct = o785
 console.log(oct)
 /* == string==
 */
